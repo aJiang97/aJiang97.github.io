@@ -821,17 +821,17 @@ section #wrapper .credits.right {
 }
 
 @media print, screen and (max-width: 720px) {
-  #title .credits {
+  #wrapper .credits {
     display: block;
     width: 100%;
     line-height: 30px;
     text-align: center;
   }
-  #title .credits .left {
+  #wrapper .credits .left {
     float: none;
     display: block;
   }
-  #title .credits .right {
+  #wrapper .credits .right {
     float: none;
     display: block;
   }
