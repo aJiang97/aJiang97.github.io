@@ -832,7 +832,7 @@ section #wrapper .credits.right {
     display: block;
   }
   #wrapper .credits .right {
-    float: none;
+    float: right;
     display: block;
   }
 }
